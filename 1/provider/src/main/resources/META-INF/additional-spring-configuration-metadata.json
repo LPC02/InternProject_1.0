@@ -1,0 +1,63 @@
+{
+  "properties": [
+    {
+      "name": "mqtt.host",
+      "type": "java.lang.String",
+      "description": "Description for mqtt.host."
+    },
+    {
+      "name": "mqtt.username",
+      "type": "java.lang.String",
+      "description": "Description for mqtt.username."
+    },
+    {
+      "name": "mqtt.password",
+      "type": "java.lang.String",
+      "description": "Description for mqtt.password."
+    },
+    {
+      "name": "mqtt.cleansession",
+      "type": "java.lang.String",
+      "description": "Description for mqtt.cleansession."
+    },
+    {
+      "name": "mqtt.clientid",
+      "type": "java.lang.String",
+      "description": "Description for mqtt.clientid."
+    },
+    {
+      "name": "mqtt.default_topic",
+      "type": "java.lang.String",
+      "description": "Description for mqtt.default_topic."
+    },
+    {
+      "name": "mqtt.timeout",
+      "type": "java.lang.String",
+      "description": "Description for mqtt.timeout."
+    },
+    {
+      "name": "mqtt.keepalive",
+      "type": "java.lang.String",
+      "description": "Description for mqtt.keepalive."
+    },
+    {
+      "name": "mqtt.connectionTimeout",
+      "type": "java.lang.String",
+      "description": "Description for mqtt.connectionTimeout."
+    },
+    {
+      "name": "sbuscribe.mqtt.clientid",
+      "type": "java.lang.String",
+      "description": "Description for sbuscribe.mqtt.clientid."
+    },
+    {
+      "name": "sbuscribe.mqtt.keepalive",
+      "type": "java.lang.String",
+      "description": "Description for sbuscribe.mqtt.keepalive."
+    },
+    {
+      "name": "sbuscribe.mqtt.connectionTimeout",
+      "type": "java.lang.String",
+      "description": "Description for sbuscribe.mqtt.connectionTimeout."
+    }
+  ] }
